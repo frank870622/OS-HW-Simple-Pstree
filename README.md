@@ -1,1 +1,1 @@
-# OS-HW-Simple-Pstree
+# HW1-simple-pstree
